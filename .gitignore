@@ -6,3 +6,6 @@ myconsoleapp/obj/
 mywebapp/bin/
 mywebapp/obj/
 
+# My Razor Web App - Razor
+myrazorapp/bin/
+myrazorapp/obj/
