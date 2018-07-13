@@ -1,2 +1,4 @@
-*/obj/*$
-*/bin/*$
+# My Console App
+myconsoleapp/bin/
+myconsoleapp/obj/
+
