@@ -5,6 +5,7 @@
 }
 
 <form method="POST">
+    <h3>@Model.Message</h3>
     <table class="table">
         <thead>
             <tr>
@@ -14,7 +15,7 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var customer in IndexModel.Customers){
+            @foreach (var customer in Model.Customers){
                 <tr>
                     <td>@customer.Id</td>
                     <td>@customer.Name</td>

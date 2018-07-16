@@ -15,10 +15,12 @@ namespace myrazorapp.Pages
 
         public IndexModel(AppDbContext db){
             this._db = db;
+            this.Customers = new List<Customer>();
         }
 
-        public static IList<Customer> Customers { get; set; }
-
+        public IList<Customer> Customers { get; set; }
+        [TempData]
+        public string Message { get; set; }
         public async Task OnGetAsync()
         {
             Customers = await _db.Customers.AsNoTracking().ToListAsync();
