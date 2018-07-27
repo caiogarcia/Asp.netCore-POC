@@ -1,0 +1,14 @@
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\bin\Debug\netcoreapp2.1\mywebapi.deps.json
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\bin\Debug\netcoreapp2.1\mywebapi.runtimeconfig.json
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\bin\Debug\netcoreapp2.1\mywebapi.runtimeconfig.dev.json
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\bin\Debug\netcoreapp2.1\mywebapi.dll
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\bin\Debug\netcoreapp2.1\mywebapi.pdb
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.csprojAssemblyReference.cache
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.csproj.CoreCompileInputs.cache
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.RazorAssemblyInfo.cache
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.RazorAssemblyInfo.cs
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.AssemblyInfoInputs.cache
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.AssemblyInfo.cs
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.RazorTargetAssemblyInfo.cache
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.dll
+C:\Users\cviana\Documents\MS-VirtualAcademy\Asp.netCore-POC\mywebapi\obj\Debug\netcoreapp2.1\mywebapi.pdb
