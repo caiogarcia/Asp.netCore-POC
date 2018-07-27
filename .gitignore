@@ -10,6 +10,10 @@ mywebapp/obj/
 myrazorapp/bin/
 myrazorapp/obj/
 
-# My Razor Web App - Razor
+# My Web App - MVA
 myMVA/bin/
 myMVA/obj/
+
+# My Web API
+mywebapi/bin/
+mywebapi/obj/
