@@ -17,3 +17,7 @@ myMVA/obj/
 # My Web API
 mywebapi/bin/
 mywebapi/obj/
+
+# My Web Middleware
+myMiddleware/bin/
+myMiddleware/obj/
